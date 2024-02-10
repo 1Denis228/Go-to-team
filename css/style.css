@@ -225,7 +225,7 @@ body {
     display: flex;
     margin: 10px 0;
     color: black;
-    width: 3000px;
+    width: max-content;
     animation: moveSlideshow 10s linear infinite;
   }
 
