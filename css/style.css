@@ -227,6 +227,7 @@ body {
     color: black;
     width: 3000px;
     max-height: 40px;
+    list-style: none;
     animation: moveSlideshow 10s linear infinite;
   }
 
