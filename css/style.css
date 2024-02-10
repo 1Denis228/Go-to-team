@@ -269,7 +269,9 @@ body {
         font-size: 17px;
     }
 
-
+    .list-slider {
+      max-width: 5000px;
+    }
 }
 
 /* Extra small: 0px (320px) - 575px */
@@ -277,6 +279,10 @@ body {
     .wrapper-text {
         max-width: 300px;
         font-size: 12px;
+    }
+
+    .list-slider {
+      max-width: 5000px;
     }
 
     .list-slider-text {
